@@ -12,6 +12,8 @@ A simpler **[Log4j](http://logging.apache.org/log4j/2.x/)** inspired logger modu
 
 This is a work in progress and is not ready for production, use with care, the API can and **will** change.
 
+This is a fork of angular2-logger that makes it possible to use it with Angular Universal.  
+
 ## Usage
 
 ### Quickstart
