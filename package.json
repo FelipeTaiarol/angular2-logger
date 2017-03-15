@@ -1,10 +1,10 @@
 {
-  "name": "angular2-logger",
+  "name": "angular2-logger-universal",
   "version": "0.5.1",
   "description": "A Log4j inspired Logger for Angular 2.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code-chunks/angular2-logger"
+    "url": "git+https://github.com/FelipeTaiarol/angular2-logger-universal"
   },
   "scripts": {
     "tsc": "tsc",
@@ -34,6 +34,9 @@
     "logger",
     "angular 2",
     "angular2-logger",
+    "angular2-logger-universal",
+    "universal",
+    "angular universal",
     "console",
     "ng2",
     "logging",
@@ -62,13 +65,17 @@
     {
       "name": "Juan Hernandez",
       "email": "juanhersan@gmail.com"
+    },
+    {
+      "name": "Felipe Bortolon Taiarol",
+      "email": "felipebtaiarol@gmail"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/code-chunks/angular2-logger/issues"
+    "url": "https://github.com/FelipeTaiarol/angular2-logger-universal/issues"
   },
-  "homepage": "https://github.com/code-chunks/angular2-logger#readme",
+  "homepage": "https://github.com/FelipeTaiarol/angular2-logger-universal#readme",
   "dependencies": {},
   "devDependencies": {
     "rimraf": "^2.5.2",
